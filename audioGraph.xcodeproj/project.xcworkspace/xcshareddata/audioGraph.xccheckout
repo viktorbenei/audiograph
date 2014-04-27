@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F78200F1-FFDA-46FA-A349-CE782FCE59EF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>audioGraph</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6FCD41FE-BBB5-43CB-8B17-8F019921E383</key>
+		<string>ssh://github.com/viktorbenei/audiograph.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>audioGraph.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6FCD41FE-BBB5-43CB-8B17-8F019921E383</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/viktorbenei/audiograph.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6FCD41FE-BBB5-43CB-8B17-8F019921E383</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6FCD41FE-BBB5-43CB-8B17-8F019921E383</string>
+			<key>IDESourceControlWCCName</key>
+			<string>audiograph</string>
+		</dict>
+	</array>
+</dict>
+</plist>
